@@ -1,0 +1,7 @@
+name = PayUMoney Phone Field
+description = Implements a PayUMoney fields Phone in an addressfield format handler.
+core = 7.x
+package = PayUMoney
+
+dependencies[] = ctools
+dependencies[] = addressfield
